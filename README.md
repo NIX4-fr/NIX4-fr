@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=FFFFFF&background=000000&center=true&vCenter=true&width=700&height=90&lines=HELLO%2C+I'M+NIX4-FR;LEARNING+%E2%80%A2+BUILDING+%E2%80%A2+IMPROVING;WELCOME+TO+MY+PROFILE"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=FFFFFF&background=000000&center=true&vCenter=true&width=700&height=90&lines=HELLO%2C+I'M+NIX4;LEARNING+%E2%80%A2+BUILDING+%E2%80%A2+IMPROVING;WELCOME+TO+MY+PROFILE"
     alt="Animated black and white profile banner"
   />
 </p>
