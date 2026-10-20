@@ -1,16 +1,28 @@
-## Hi there 👋
+# NIX4-fr
 
-<!--
-**NIX4-fr/NIX4-fr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=FFFFFF&background=000000&center=true&vCenter=true&width=700&height=90&lines=HELLO%2C+I'M+NIX4-FR;LEARNING+%E2%80%A2+BUILDING+%E2%80%A2+IMPROVING;WELCOME+TO+MY+PROFILE"
+    alt="Animated black and white profile banner"
+  />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>Developer • Curious mind • Always learning</strong>
+  <br />
+  أموت بالتقنية، وأحب أتعلم وأبني أشياء جديدة.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About
+
+I enjoy exploring technology, learning new things, and turning ideas into projects.
+
+### Find me
+
+<p>
+  <a href="https://github.com/NIX4-fr">
+    <img src="https://img.shields.io/badge/GitHub-NIX4--fr-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub: NIX4-fr" />
+  </a>
+</p>
